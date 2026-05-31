@@ -1,0 +1,42 @@
+<svg width="720" height="720" viewBox="0 0 720 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AI and science portfolio illustration</title>
+  <desc id="desc">A decorative student profile with circuit paths, stars, an atom symbol, and achievement elements.</desc>
+  <rect width="720" height="720" rx="36" fill="#12091F"/>
+  <path d="M76 104H644V616H76V104Z" fill="#1B0F2F" stroke="#3A235A" stroke-width="3"/>
+  <path d="M118 158H602" stroke="#B984FF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M118 562H602" stroke="#F7C948" stroke-width="4" stroke-linecap="round"/>
+  <path d="M153 191H274V312H153V191Z" fill="#26143F" stroke="#B984FF" stroke-width="3"/>
+  <path d="M446 409H567V530H446V409Z" fill="#2B2410" stroke="#F7C948" stroke-width="3"/>
+  <path d="M487 118V220H579" stroke="#72E7FF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M232 610V510H128" stroke="#7C3AED" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="360" cy="355" r="142" fill="#12091F" stroke="#3A235A" stroke-width="4"/>
+  <circle cx="360" cy="308" r="58" fill="#B984FF"/>
+  <path d="M263 494C274 434 312 397 360 397C408 397 446 434 457 494H263Z" fill="#F7C948"/>
+  <path d="M314 285C330 253 390 253 406 285C392 276 372 272 360 272C348 272 328 276 314 285Z" fill="#12091F"/>
+  <path d="M302 482C314 438 337 421 360 421C383 421 406 438 418 482" stroke="#12091F" stroke-width="8" stroke-linecap="round"/>
+  <path d="M360 186C360 186 333 231 333 354C333 477 360 524 360 524" stroke="#72E7FF" stroke-width="3" stroke-linecap="round"/>
+  <path d="M204 355C204 355 263 328 360 328C457 328 516 355 516 355" stroke="#B984FF" stroke-width="3" stroke-linecap="round"/>
+  <path d="M224 273C224 273 303 288 389 374C475 460 495 537 495 537" stroke="#7C3AED" stroke-width="3" stroke-linecap="round"/>
+  <path d="M496 273C496 273 417 288 331 374C245 460 225 537 225 537" stroke="#F7C948" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="213" cy="251" r="18" fill="#72E7FF"/>
+  <circle cx="529" cy="256" r="18" fill="#FB7185"/>
+  <circle cx="203" cy="463" r="18" fill="#B984FF"/>
+  <circle cx="533" cy="460" r="18" fill="#72E7FF"/>
+  <path d="M199 231L225 257" stroke="#12091F" stroke-width="5" stroke-linecap="round"/>
+  <path d="M225 231L199 257" stroke="#12091F" stroke-width="5" stroke-linecap="round"/>
+  <path d="M520 247H538" stroke="#12091F" stroke-width="5" stroke-linecap="round"/>
+  <path d="M529 238V256" stroke="#12091F" stroke-width="5" stroke-linecap="round"/>
+  <path d="M193 463H213" stroke="#12091F" stroke-width="5" stroke-linecap="round"/>
+  <path d="M520 452L533 466L548 442" stroke="#12091F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M181 228H246" stroke="#B984FF" stroke-width="3" stroke-dasharray="8 10"/>
+  <path d="M474 238H552" stroke="#FB7185" stroke-width="3" stroke-dasharray="8 10"/>
+  <path d="M164 464H246" stroke="#7C3AED" stroke-width="3" stroke-dasharray="8 10"/>
+  <path d="M472 457H566" stroke="#B984FF" stroke-width="3" stroke-dasharray="8 10"/>
+  <circle cx="173" cy="210" r="6" fill="#B984FF"/>
+  <circle cx="260" cy="190" r="5" fill="#F7C948"/>
+  <circle cx="560" cy="198" r="6" fill="#72E7FF"/>
+  <circle cx="150" cy="528" r="5" fill="#FB7185"/>
+  <circle cx="575" cy="545" r="6" fill="#A78BFA"/>
+  <path d="M156 120L166 141L189 144L172 160L176 183L156 172L136 183L140 160L123 144L146 141L156 120Z" fill="#F7C948"/>
+  <path d="M574 585L582 601L600 604L587 617L590 635L574 627L558 635L561 617L548 604L566 601L574 585Z" fill="#B984FF"/>
+</svg>
