@@ -255,19 +255,22 @@ nav {
     transform: rotate(18deg);
 }
 
-.achievements-icon::before {
-    width: 16px;
-    height: 16px;
-    top: 6px;
-    border: 2px solid #fff;
-    border-radius: 50%;
+
+.achievements-icon {
+    width: 34px;
+    height: 34px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
 }
 
-.achievements-icon::after {
-    width: 14px;
-    height: 12px;
-    bottom: 5px;
-    background: linear-gradient(90deg, transparent 0 3px, var(--gold) 3px 6px, transparent 6px 8px, var(--gold) 8px 11px, transparent 11px);
+.achievements-icon-img {
+    width: 18px;
+    height: 18px;
+    image-rendering: pixelated;
+    object-fit: contain;
+    filter: invert(1);
 }
 
 .contact-icon::before {
