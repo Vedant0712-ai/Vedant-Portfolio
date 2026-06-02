@@ -20,15 +20,15 @@ body {
     font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, Arial, sans-serif;
     color: var(--text);
     
-    /* YOUR ORIGINAL GRID PATTERN - Kept exactly as you designed it! */
+   
     background:
-        linear-gradient(rgba(255, 255, 255, 0.025) 1px, transparent 1px), /* Softened opacity slightly for better text contrast */
+        linear-gradient(rgba(255, 255, 255, 0.025) 1px, transparent 1px),
         linear-gradient(90deg, rgba(255, 255, 255, 0.025) 1px, transparent 1px),
-        radial-gradient(circle at 15% 15%, rgba(124, 58, 237, 0.4), transparent 35%), /* Enhanced vibrant glow spots */
+        radial-gradient(circle at 15% 15%, rgba(124, 58, 237, 0.4), transparent 35%),
         radial-gradient(circle at 85% 30%, rgba(185, 132, 255, 0.22), transparent 30%),
-        linear-gradient(135deg, #0f0518 0%, #1a0b30 44%, #08030d 100%); /* Deeper, richer dark canvas */
+        linear-gradient(135deg, #0f0518 0%, #1a0b30 44%, #08030d 100%);
     background-size: 42px 42px, 42px 42px, auto, auto, auto;
-    background-attachment: fixed; /* Keeps the grid locked beautifully while you scroll */
+    background-attachment: fixed;
 }
 * {
     box-sizing: border-box;
